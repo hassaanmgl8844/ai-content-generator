@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h2>Lore Lag Gaye</h2>
-      <Button>Chal Bhag Bhosri ke</Button>
+      <Button >Chal Bhag Bhosri ke</Button>
     </div>
   );
 }
